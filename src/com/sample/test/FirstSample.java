@@ -6,6 +6,7 @@ public class FirstSample {
 		// TODO Auto-generated method stub
 System.out.println("My first sample project");
 System.out.println("My first sample project");
+System.out.println("My first sample project_3");
 	}
 
 }
