@@ -7,6 +7,6 @@ public class FirstSample {
 System.out.println("My first sample project");
 System.out.println("My first sample project");
 System.out.println("My first sample project_3");
+System.out.println("Change from Github");
 	}
-
 }
